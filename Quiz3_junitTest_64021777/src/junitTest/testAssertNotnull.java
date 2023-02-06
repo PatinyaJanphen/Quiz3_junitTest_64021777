@@ -16,7 +16,6 @@ public class testAssertNotnull {
 	
 	@Test
 	public void testAssertNotnull1() {
-//		QuizOneJunit j = new QuizOneJunit();
 		assertNotNull(obj.square(0));
 		
 	}

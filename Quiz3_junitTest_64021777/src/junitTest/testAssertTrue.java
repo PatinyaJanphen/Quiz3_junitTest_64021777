@@ -16,8 +16,7 @@ public class testAssertTrue {
 	
 	@Test()
 	public void testAssertTrue1() {
-		QuizOneJunit test1 = new QuizOneJunit();
 		
-		assertFalse(n.checkTwoLetter("test"));
+		assertFalse(obj.checkTwoLetter("test"));
 	}
 }
